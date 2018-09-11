@@ -20,6 +20,8 @@ Include your responses to the bold questions on your own fork of [this lab repor
 
 **Take a picture of your soldered panel and add it here!**
 
+![pic soldered panel](https://lh3.googleusercontent.com/5g3rR4Ii7BMHciiCa4smXQv8am9hlKQueFNfmu4JaNQLuA_MUbMunEsfcZFbM9ASgXGN2VLAlnVPKBhG-hb7w7BGU-a3udicVWAOZV_8V1rmM9AUGzvouUsA0G9oz2LB48ZqQ2P2cTM)
+
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
@@ -29,7 +31,17 @@ Include your responses to the bold questions on your own fork of [this lab repor
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
- 
+
+In the following sample code, I should change `lcd.print("hello, world!");` to `lcd.print("Lalo Gonzalez!");`
+
+```
+void setup() {
+  // set up the LCD's number of columns and rows:
+  lcd.begin(16, 2);
+  // Print a message to the LCD.
+  lcd.print("hello, world!");
+}
+```
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 
 
@@ -41,9 +53,12 @@ Include your responses to the bold questions on your own fork of [this lab repor
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
+
+By changing the note durations.
  
 **b. What song is playing?**
 
+Star Wars Song.
 
 ## Part E. Make your own timer
 
