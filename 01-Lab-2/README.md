@@ -49,6 +49,8 @@ void setup() {
 
 **Upload a video of your working rotary encoder here.**
 
+[video](https://drive.google.com/file/d/1BZO-Ca3SzDQkHz8SQDSJJB7R71zjDyRm/view?usp=sharing)
+
 
 ## Part D. Make your Arduino sing!
 
@@ -63,5 +65,7 @@ Star Wars Song.
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+
+[video](https://drive.google.com/file/d/1mjCmb_7g43O4OJAVd45jEFi8TSpaNc10/view?usp=sharing)
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
