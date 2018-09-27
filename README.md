@@ -9,3 +9,4 @@
 ## Pre Labs
 
 - Pre Lab 3 (Sep 13): [Data Logger](/02-Lab-3/00-pre-lab/README.md)
+- Pre Lab 5 (Sep 27): [Useless Box](/04-Lab-5/00-pre-lab/README.md)
