@@ -1,5 +1,9 @@
 # Designing Interactive Devices
 
+## Final project
+
+- [Slides Clicker](https://github.com/lalogf/final-ddid)
+
 ## Lab Assignments
 
 - Lab 1 (Aug 28): [Blink!](https://github.com/lalogf/IDD-Fa18-Lab1)
